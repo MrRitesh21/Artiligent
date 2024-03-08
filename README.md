@@ -1,1 +1,1 @@
-# Artiligent-Website
+# Artiligent
